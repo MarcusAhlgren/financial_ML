@@ -13,8 +13,8 @@ seaborn = "*"
 sklearn = "*"
 jupyter = "*"
 alpha_vantage = "*"
-Mlfinlab = "*"
 numba = "*"
+mlfinlab = "*"
 
 [requires]
 python_version = "3.7"
